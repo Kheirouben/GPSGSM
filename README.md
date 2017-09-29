@@ -2,13 +2,13 @@
 # GPSGSM
 Simple app to plot a marker on a map, using geo data comming via SMS.
 ## Demonstration
-[Demonstration Youtube Video ](https://youtube.com/watch?v=706Ye4ubtEY)
+[Demonstration Youtube Video ](https://youtu.be/pTkKYSpxDxU)
 ## Usage
 1. [Download the App.](https://github.com/Kheirouben/GPSGSM/blob/master/GPSGSM.apk) 
 2. [Download the Map.](https://drive.google.com/drive/folders/0ByH10jZPPtLLQUl4OHJxMUFCUG8)
 3. Install the App.
 4. Create a new folder in your phone named "osmdroid": `InternalMemory/osmdroid/`
-5. Pase the tiles.zip file in this directory.
+5. Paste the tiles.zip file in this directory.
 6. launch the app.
 ## Sms template
 SMS should be like this: `geo,36.737232,3.086472`
