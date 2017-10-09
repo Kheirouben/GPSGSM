@@ -11,7 +11,7 @@ Simple app to plot a marker on a map, using geo data comming via SMS.
 5. Paste the tiles.zip file in this directory.
 6. launch the app.
 ## Sms template
-SMS should be like this: `geo,36.737232,3.086472`
+SMS should be like this: `gps,36.737232,3.086472`
 ## Based on
 [OSMDROID.](https://github.com/osmdroid/osmdroid)
 ## License
